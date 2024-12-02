@@ -5,12 +5,15 @@
 ![Gradio](https://img.shields.io/badge/Gradio-3.1.4-blueviolet?style=for-the-badge&logo=gradio&logoColor=white)
 [![Deployed on Hugging Face](https://img.shields.io/badge/Deployed%20on-Hugging%20Face-yellow?style=for-the-badge&logo=huggingface&logoColor=white)](https://huggingface.co/spaces/Sanshruth/CPU_BlazeChat)
 
-![image](https://github.com/user-attachments/assets/9f76c7f0-e46b-4f1f-a170-a53e4fe5a76d)
+![image](https://github.com/user-attachments/assets/331cc917-b1eb-4ae1-a6c2-eb63875664c8)
 
 
 ## Overview
 
 **CPU BlazeChat** is a fast and efficient CPU-powered chat and image generation system. Using the `PhoneLM-1.5B-Instruct` model for text generation and a custom diffusion model for image creation, it allows users to interact via text or create images with natural language prompts. The system is designed to be lightweight, operating in near real-time with minimal computational overhead.
+![image](https://github.com/user-attachments/assets/9f76c7f0-e46b-4f1f-a170-a53e4fe5a76d)
+
+
 
 ## Features
 
