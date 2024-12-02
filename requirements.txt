@@ -1,0 +1,3 @@
+git+https://github.com/apapiu/transformer_latent_diffusion.git@legacy_dh_order
+transformers 
+tld
