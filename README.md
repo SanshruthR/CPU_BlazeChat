@@ -88,6 +88,12 @@ This repository is designed to be a lightweight diffusion model in PyTorch:
   publisher = {mllm Team},
   url = {https://github.com/UbiquitousLearning/mllm}
 }
+ 
+```
+
+```
+@misc{Apapiu Apapiu/transformer_latent_diffusion: Text to image latent diffusion using a transformer core, GitHub.
+Available at: https://github.com/apapiu/transformer_latent_diffusion (Accessed: 2025).}
 ```
 
 
